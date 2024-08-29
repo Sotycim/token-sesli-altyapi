@@ -9,8 +9,8 @@
 
 ## Setup:
 
-> Open `install.bat` to download modules
+> Modülleri Kurmak için 'install.bat'ı açın
 
-> Put your tokens in `Tokens.txt`
+> Modüller kurulduktan sonra 'Tokens.txt' buraya tokenleri gir
 
-> Open `start.bat` to run the program
+> Programı çalıştırmak için 
